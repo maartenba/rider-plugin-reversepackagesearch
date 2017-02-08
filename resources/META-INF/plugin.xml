@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>be.maartenballiauw.rider.reversepackagesearch</id>
   <name>Reverse package search</name>
-  <version>1.0</version>
+  <version>1.0.1</version>
   <vendor email="maarten@maartenballiauw.be" url="http://blog.maartenballiauw.be">Maarten Balliauw</vendor>
 
   <description><![CDATA[
@@ -29,7 +29,7 @@
             text="Find NuGet package containing type"
             description="Searches a NuGet package containing the selected type">
       <add-to-group group-id="EditorPopupMenu" />
-      <keyboard-shortcut keymap="$default" first-keystroke="shift ctrl N"/>
+      <keyboard-shortcut keymap="$default" first-keystroke="alt shift P"/>
     </action>
   </actions>
 
