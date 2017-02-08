@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f439549-9e3e-4a61-97d2-3394a161b63b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screenshot.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,7 +21,7 @@
         <entry file="file://$PROJECT_DIR$/resources/META-INF/plugin.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="299">
-              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <caret line="14" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="35" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -41,13 +43,18 @@
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <marker date="1486538992096" expanded="true" signature="45169:45194" ph="..." />
-                <marker date="1486538992096" expanded="true" signature="45169:45216" ph="..." />
-                <marker date="1486538992096" expanded="true" signature="45169:45250" ph="..." />
-                <marker date="1486538992096" expanded="true" signature="45169:45270" ph="..." />
-                <marker date="1486538992096" expanded="true" signature="45169:45285" ph="..." />
-                <marker date="1486538992096" expanded="true" signature="45169:45616" ph="..." />
-                <marker date="1486538992096" expanded="true" signature="45169:45631" ph="..." />
+                <marker date="1486539132263" expanded="true" signature="48388:48413" ph="..." />
+                <marker date="1486539132263" expanded="true" signature="48388:48435" ph="..." />
+                <marker date="1486539132263" expanded="true" signature="48388:48469" ph="..." />
+                <marker date="1486539132263" expanded="true" signature="48388:48489" ph="..." />
+                <marker date="1486539132263" expanded="true" signature="48388:48504" ph="..." />
+                <marker date="1486539132263" expanded="true" signature="48388:48835" ph="..." />
+                <marker date="1486539132263" expanded="true" signature="48388:48850" ph="..." />
+                <marker date="1486539132263" expanded="true" signature="48556:48821" ph="..." />
+                <marker date="1486539132263" expanded="true" signature="48575:48806" ph="..." />
+                <marker date="1486539132263" expanded="true" signature="48608:48786" ph="..." />
+                <marker date="1486539132263" expanded="true" signature="48648:48752" ph="..." />
+                <marker date="1486539132263" expanded="true" signature="48669:48730" ph="..." />
               </folding>
             </state>
           </provider>
@@ -83,14 +90,27 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ReversePackageSearchAction.kt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ReversePackageSearchAction.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/be/maartenballiauw/rider/reversepackagesearch/ReversePackageSearchAction.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="61" column="12" lean-forward="false" selection-start-line="61" selection-start-column="12" selection-end-line="61" selection-end-column="12" />
+            <state relative-caret-position="174">
+              <caret line="55" column="0" lean-forward="true" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
               <folding>
                 <element signature="e#55#317#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="125">
+                <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -110,16 +130,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="125">
               <caret line="5" column="34" lean-forward="false" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="34" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ActionUtil.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$APPLICATION_HOME_DIR$/lib/openapi.jar!/com/intellij/openapi/actionSystem/ex/ActionUtil.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2175">
-              <caret line="121" column="0" lean-forward="false" selection-start-line="121" selection-start-column="0" selection-end-line="121" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -153,6 +163,7 @@
         <option value="$PROJECT_DIR$/resources/META-INF/plugin.xml" />
         <option value="$PROJECT_DIR$/src/be/maartenballiauw/rider/reversepackagesearch/ReversePackageSearchAction.java" />
         <option value="$PROJECT_DIR$/src/be/maartenballiauw/rider/reversepackagesearch/ReversePackageSearchAction.kt" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -488,12 +499,12 @@
       <workItem from="1486476314337" duration="2705000" />
       <workItem from="1486480017715" duration="771000" />
       <workItem from="1486536568574" duration="2304000" />
-      <workItem from="1486538937649" duration="67000" />
+      <workItem from="1486538937649" duration="197000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5847000" />
+    <option name="totallyTimeSpent" value="5977000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="3222" height="1762" extended-state="6" />
@@ -739,14 +750,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/META-INF/plugin.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -760,13 +763,18 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1486538992096" expanded="true" signature="45169:45194" ph="..." />
-            <marker date="1486538992096" expanded="true" signature="45169:45216" ph="..." />
-            <marker date="1486538992096" expanded="true" signature="45169:45250" ph="..." />
-            <marker date="1486538992096" expanded="true" signature="45169:45270" ph="..." />
-            <marker date="1486538992096" expanded="true" signature="45169:45285" ph="..." />
-            <marker date="1486538992096" expanded="true" signature="45169:45616" ph="..." />
-            <marker date="1486538992096" expanded="true" signature="45169:45631" ph="..." />
+            <marker date="1486539132263" expanded="true" signature="48388:48413" ph="..." />
+            <marker date="1486539132263" expanded="true" signature="48388:48435" ph="..." />
+            <marker date="1486539132263" expanded="true" signature="48388:48469" ph="..." />
+            <marker date="1486539132263" expanded="true" signature="48388:48489" ph="..." />
+            <marker date="1486539132263" expanded="true" signature="48388:48504" ph="..." />
+            <marker date="1486539132263" expanded="true" signature="48388:48835" ph="..." />
+            <marker date="1486539132263" expanded="true" signature="48388:48850" ph="..." />
+            <marker date="1486539132263" expanded="true" signature="48556:48821" ph="..." />
+            <marker date="1486539132263" expanded="true" signature="48575:48806" ph="..." />
+            <marker date="1486539132263" expanded="true" signature="48608:48786" ph="..." />
+            <marker date="1486539132263" expanded="true" signature="48648:48752" ph="..." />
+            <marker date="1486539132263" expanded="true" signature="48669:48730" ph="..." />
           </folding>
         </state>
       </provider>
@@ -789,11 +797,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/be/maartenballiauw/rider/reversepackagesearch/ReversePackageSearchAction.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="61" column="12" lean-forward="false" selection-start-line="61" selection-start-column="12" selection-end-line="61" selection-end-column="12" />
+        <state relative-caret-position="174">
+          <caret line="55" column="0" lean-forward="true" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
           <folding>
             <element signature="e#55#317#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/META-INF/plugin.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="35" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="125">
+            <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
