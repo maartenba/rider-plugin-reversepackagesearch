@@ -1,0 +1,36 @@
+<idea-plugin>
+  <id>be.maartenballiauw.rider.reversepackagesearch</id>
+  <name>Reverse package search</name>
+  <version>1.0</version>
+  <vendor email="maarten@maartenballiauw.be" url="http://blog.maartenballiauw.be">Maarten Balliauw</vendor>
+
+  <description><![CDATA[
+      Perform a reverse NuGet package search via <a href="https://packagesearch.azurewebsites.net">packagesearch.azurewebsites.net</a>.
+    ]]></description>
+
+  <change-notes><![CDATA[]]></change-notes>
+
+  <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
+  <idea-version since-build="163.10479"/>
+
+  <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+       on how to target different products -->
+  <!-- uncomment to enable plugin in all products
+  <depends>com.intellij.modules.lang</depends>
+  -->
+  <depends>com.intellij.modules.rider</depends>
+
+  <extensions defaultExtensionNs="com.intellij">
+    <!-- Add your extensions here -->
+  </extensions>
+
+  <actions>
+    <action id="ReversePackageSearchAction" class="be.maartenballiauw.rider.reversepackagesearch.ReversePackageSearchAction"
+            text="Find NuGet package containing type"
+            description="Searches a NuGet package containing the selected type">
+      <add-to-group group-id="EditorPopupMenu" />
+      <keyboard-shortcut keymap="$default" first-keystroke="shift ctrl N"/>
+    </action>
+  </actions>
+
+</idea-plugin>
